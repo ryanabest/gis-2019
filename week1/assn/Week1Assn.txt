@@ -1,0 +1,2 @@
+bbox: 22.390714,107.929688,49.610710,171.210938
+tableau public: https://public.tableau.com/views/Fall2019GISWeek1Assignment/Dashboard1?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
