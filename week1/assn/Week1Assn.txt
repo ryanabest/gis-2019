@@ -1,2 +1,2 @@
-bbox: 29.267233,127.265625,46.195042,150.644531
+bbox: 21.371244,118.476563,46.377254,150.644531
 tableau public: https://public.tableau.com/views/Fall2019GISWeek1Assignment/Week1Assignment?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link
