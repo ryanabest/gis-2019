@@ -1,63 +1,26 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2019-09-05T11:01:34.135Z,47.2266,155.7557,34.84,4.8,mb,,135,6.023,0.86,us,us70005c99,2019-09-05T11:18:16.040Z,"East of the Kuril Islands",earthquake,8.9,2,0.032,297,reviewed,us,us
-2019-09-05T03:23:24.700Z,46.4031,152.8844,10,5,mb,,144,6.987,0.71,us,us70005c6w,2019-09-05T03:35:19.040Z,"Kuril Islands",earthquake,10.2,2,0.095,36,reviewed,us,us
-2019-09-05T00:59:21.107Z,27.8656,142.7345,10,4.5,mb,,138,0.909,0.84,us,us70005c6k,2019-09-05T01:47:57.040Z,"100km NNE of Chichi-shima, Japan",earthquake,9.3,1.9,0.157,12,reviewed,us,us
-2019-09-04T16:02:55.657Z,27.8564,142.5464,20.87,4.9,mww,,137,0.823,0.65,us,us70005bzg,2019-09-04T16:26:35.040Z,"91km NNE of Chichi-shima, Japan",earthquake,9.2,5.8,0.073,18,reviewed,us,us
-2019-09-04T13:33:18.680Z,23.9522,122.4716,24.32,4.4,mb,,104,0.711,0.88,us,us70005byr,2019-09-05T05:30:01.040Z,"78km SW of Yonakuni, Japan",earthquake,2.7,6.8,0.127,18,reviewed,us,us
 2019-09-03T18:42:37.338Z,39.4106,143.1921,27.81,4.6,mb,,136,2.135,0.85,us,us70005bkw,2019-09-04T15:28:19.040Z,"107km E of Yamada, Japan",earthquake,6.1,5.7,0.071,60,reviewed,us,us
-2019-09-03T00:47:31.589Z,23.7111,121.5815,10,4.9,mb,,87,0.46,1.05,us,us70005bam,2019-09-03T01:36:02.040Z,"29km S of Hualian, Taiwan",earthquake,2.2,1.9,0.117,23,reviewed,us,us
-2019-09-01T18:57:53.999Z,46.6317,143.9236,386.74,4.1,mb,,133,0.863,0.56,us,us70005b0j,2019-09-01T19:38:01.040Z,"87km E of Korsakov, Russia",earthquake,12.6,7.1,0.075,49,reviewed,us,us
-2019-08-31T23:46:04.182Z,24.8473,122.2445,8.58,4.5,mb,,50,0.793,1.02,us,us70005aqn,2019-09-01T00:24:04.040Z,"48km NE of Su'ao, Taiwan",earthquake,2.5,5.2,0.14,15,reviewed,us,us
-2019-08-31T07:50:18.038Z,23.0347,121.7453,11.42,4.6,mb,,92,0.65,0.74,us,us70005aim,2019-08-31T08:03:59.040Z,"68km ENE of Taitung City, Taiwan",earthquake,3.5,5.3,0.119,21,reviewed,us,us
-2019-08-29T20:35:01.222Z,26.776,125.3265,199.06,4.1,mb,,78,2.633,0.54,us,us70005byh,2019-09-04T16:17:42.040Z,"218km N of Hirara, Japan",earthquake,4.6,10.3,0.158,11,reviewed,us,us
 2019-08-28T23:46:39.453Z,41.0739,142.9911,17.16,6.1,mww,,31,0.948,0.88,us,us700059ee,2019-08-29T23:52:28.442Z,"141km ENE of Hachinohe, Japan",earthquake,5,3.9,0.073,18,reviewed,us,us
-2019-08-28T18:27:04.547Z,25.9691,142.4699,10,4.6,mb,,137,1.15,0.71,us,us70005bjc,2019-09-04T13:07:05.040Z,"126km SSE of Chichi-shima, Japan",earthquake,12.5,1.9,0.112,24,reviewed,us,us
 2019-08-28T12:32:35.971Z,42.6663,148.4249,10,4.7,mb,,167,3.958,0.67,us,us7000594v,2019-08-28T12:48:17.040Z,"187km SE of Shikotan, Russia",earthquake,4.7,1.9,0.045,146,reviewed,us,us
-2019-08-27T13:02:01.590Z,28.1641,140.215,436.38,4.2,mb,,81,2.046,0.58,us,us70005bgn,2019-09-03T18:58:38.040Z,"231km WNW of Chichi-shima, Japan",earthquake,13.7,9.2,0.199,7,reviewed,us,us
-2019-08-27T03:53:54.729Z,25.7353,142.7318,10,4.7,mb,,142,1.441,0.89,us,us700058mj,2019-08-27T04:12:00.040Z,"157km SSE of Chichi-shima, Japan",earthquake,10.2,1.9,0.099,31,reviewed,us,us
-2019-08-26T18:47:14.057Z,27.0378,126.7468,118.96,4.9,mb,,42,1.376,1,us,us700058gn,2019-08-28T17:26:20.705Z,"126km WNW of Ishikawa, Japan",earthquake,7.1,6,0.039,202,reviewed,us,us
 2019-08-26T15:13:31.117Z,35.4875,139.0518,19.43,4.6,mb,,112,1.077,0.65,us,us7000591s,2019-09-03T22:26:42.569Z,"15km SSW of Uenohara, Japan",earthquake,4.4,4.4,0.122,20,reviewed,us,us
 2019-08-25T05:14:12.596Z,44.0353,139.0552,254.31,4.1,mb,,41,2.551,0.74,us,us700057y1,2019-08-25T09:13:57.040Z,"166km NW of Yoichi, Japan",earthquake,8.5,11.1,0.061,73,reviewed,us,us
 2019-08-24T18:51:03.016Z,41.4871,142.0265,57.33,4.7,mb,,121,0.997,0.79,us,us700057w4,2019-08-29T00:04:03.476Z,"71km ENE of Mutsu, Japan",earthquake,5.9,6.4,0.045,149,reviewed,us,us
-2019-08-24T12:10:17.814Z,24.9473,122.4615,113.98,4.2,mb,,65,0.691,0.46,us,us700057uh,2019-08-25T09:08:24.040Z,"72km ENE of Su'ao, Taiwan",earthquake,6,6.5,0.147,13,reviewed,us,us
 2019-08-24T12:07:55.337Z,30.6491,132.7497,10,4.5,mb,,132,2.937,0.52,us,us700059t4,2019-08-31T06:55:45.040Z,"167km E of Nishinoomote, Japan",earthquake,10.2,1.9,0.118,21,reviewed,us,us
 2019-08-24T04:52:46.185Z,37.3765,142.4442,8.03,5,mww,,118,1.402,1.3,us,us700057sm,2019-08-27T05:55:02.732Z,"128km E of Namie, Japan",earthquake,6.6,4.5,0.073,18,reviewed,us,us
-2019-08-23T23:44:51.574Z,24.3177,124.7974,35.46,5,mww,,32,1.635,0.82,us,us700057r2,2019-08-24T02:42:24.251Z,"65km E of Ishigaki, Japan",earthquake,6.6,4.7,0.073,18,reviewed,us,us
 2019-08-23T18:11:20.015Z,37.247,141.8367,44.62,4.5,mb,,138,1.038,0.89,us,us700057mq,2019-08-24T17:29:32.040Z,"78km ESE of Namie, Japan",earthquake,6.1,7.1,0.096,32,reviewed,us,us
 2019-08-23T18:05:20.811Z,38.3806,141.9551,36.41,4.5,mb,,80,1.051,1.05,us,us700057mh,2019-08-24T17:27:54.040Z,"57km E of Ishinomaki, Japan",earthquake,3.5,6.5,0.064,79,reviewed,us,us
 2019-08-23T11:49:34.557Z,35.2488,140.0763,10,4.3,mb,,133,1.656,1.03,us,us700057sc,2019-08-26T16:27:53.882Z,"16km N of Kawaguchi, Japan",earthquake,5.5,1.9,0.169,10,reviewed,us,us
 2019-08-22T12:39:58.653Z,29.9411,139.3901,387.46,4.1,mb,,117,3.185,0.71,us,us7000597f,2019-08-29T05:51:14.040Z,"Izu Islands, Japan region",earthquake,11.8,9.5,0.127,17,reviewed,us,us
-2019-08-21T21:24:18.103Z,28.4718,139.9009,404.78,4.2,mb,,69,2.443,0.63,us,us700056sw,2019-08-21T21:51:27.040Z,"275km NW of Chichi-shima, Japan",earthquake,11.1,3.5,0.064,67,reviewed,us,us
 2019-08-21T03:35:24.280Z,42.4607,143.0556,16.45,4.5,mb,,124,0.451,0.39,us,us600057t2,2019-08-21T04:13:31.040Z,"52km SSW of Obihiro, Japan",earthquake,5.7,3.3,0.083,42,reviewed,us,us
-2019-08-20T16:04:36.728Z,22.7861,123.7721,10,4.5,mb,,121,1.813,0.79,us,us600057h8,2019-08-27T15:23:11.040Z,"177km SSW of Ishigaki, Japan",earthquake,6.6,1.7,0.121,20,reviewed,us,us
-2019-08-20T12:52:22.431Z,27.9593,130.8796,10,5.2,mww,,38,2.153,1.33,us,us600057eb,2019-08-20T15:40:45.040Z,"144km ESE of Naze, Japan",earthquake,4.3,1.7,0.071,19,reviewed,us,us
-2019-08-20T08:20:23.470Z,27.9985,130.1074,10.07,4.9,mww,,43,2,1.36,us,us600057ck,2019-08-20T08:40:52.040Z,"73km ESE of Naze, Japan",earthquake,6.4,4.6,0.073,18,reviewed,us,us
-2019-08-18T13:02:13.550Z,22.4105,143.6844,102.32,4.7,mb,,141,4.859,0.91,us,us700058g1,2019-08-26T19:12:09.040Z,"242km NNW of Farallon de Pajaros, Northern Mariana Islands",earthquake,12.9,4.4,0.166,17,reviewed,us,us
 2019-08-18T10:06:41.771Z,38.5467,139.4268,12.61,4.5,mb,,68,1.269,0.61,us,us600056pa,2019-08-18T11:00:41.411Z,"35km N of Murakami, Japan",earthquake,5.1,5.1,0.11,24,reviewed,us,us
-2019-08-18T04:05:15.612Z,23.7026,121.5425,10,5,mb,,88,0.382,1.34,us,us600056l4,2019-08-19T15:11:02.040Z,"31km SSW of Hualian, Taiwan",earthquake,6.7,1.9,0.054,110,reviewed,us,us
-2019-08-17T22:36:06.299Z,22.5589,141.9705,244.7,4.3,mb,,123,4.521,0.71,us,us600056if,2019-08-17T22:56:12.040Z,"254km SSE of Iwo Jima, Japan",earthquake,11.8,8.4,0.106,25,reviewed,us,us
 2019-08-17T22:28:38.201Z,30.9503,142.554,10,5,mb,,117,3.174,0.84,us,us600056ia,2019-08-17T22:47:19.040Z,"Izu Islands, Japan region",earthquake,8,1.9,0.044,167,reviewed,us,us
-2019-08-17T20:48:02.510Z,23.4352,118.5649,10,4.3,mb,,58,1.036,0.53,us,us600056hk,2019-08-18T05:17:00.803Z,"100km ESE of Aozhong, China",earthquake,5.2,1.9,0.133,16,reviewed,us,us
-2019-08-17T07:18:07.190Z,46.8224,152.6137,53.57,4.7,mb,,172,7.093,0.48,us,us600056cz,2019-08-17T08:10:25.040Z,"Kuril Islands",earthquake,12.7,10.5,0.108,26,reviewed,us,us
 2019-08-16T04:37:49.908Z,41.3274,140.9064,133.01,4.3,mb,,100,0.55,1.13,us,us600055t5,2019-08-16T05:31:59.040Z,"26km W of Mutsu, Japan",earthquake,10.7,7.4,0.168,10,reviewed,us,us
-2019-08-16T04:31:57.190Z,46.3718,152.474,50.04,4.9,mb,,170,7.329,0.78,us,us600055su,2019-08-16T04:49:11.040Z,"Kuril Islands",earthquake,12,9.4,0.04,195,reviewed,us,us
 2019-08-16T01:22:52.677Z,39.4242,143.2354,35,4.4,mb,,157,2.152,1.05,us,us700058dw,2019-08-29T00:49:40.040Z,"110km E of Yamada, Japan",earthquake,6.3,1.8,0.218,6,reviewed,us,us
-2019-08-15T13:54:33.120Z,45.9695,152.1228,59.11,4.9,mb,,188,6.542,1.23,us,us600055ea,2019-08-15T16:05:56.040Z,"East of the Kuril Islands",earthquake,12.3,9.6,0.162,12,reviewed,us,us
 2019-08-15T09:15:05.135Z,42.1518,143.6289,70.36,4.8,mb,,152,0.376,0.52,us,us600055bv,2019-08-15T09:33:36.040Z,"91km SSE of Obihiro, Japan",earthquake,2.8,6.4,0.036,234,reviewed,us,us
 2019-08-15T09:07:36.861Z,38.5427,142.2828,33.54,4.8,mb,,138,1.355,1.18,us,us600055br,2019-08-15T09:34:54.040Z,"76km SE of Ofunato, Japan",earthquake,7.6,5.7,0.059,89,reviewed,us,us
 2019-08-15T06:06:09.418Z,40.9347,141.173,87.59,4.7,mb,,130,0.166,0.52,us,us600055a5,2019-08-15T06:33:56.040Z,"32km NNW of Misawa, Japan",earthquake,7.4,3.4,0.03,334,reviewed,us,us
 2019-08-15T05:32:53.619Z,40.8668,141.2018,88.38,5.4,mww,,34,0.129,1,us,us6000559v,2019-08-18T10:13:37.649Z,"24km NNW of Misawa, Japan",earthquake,6.5,3.3,0.073,18,reviewed,us,us
 2019-08-13T22:02:50.638Z,38.8225,142.4076,38.88,4.5,mb,,94,1.588,1.17,us,us600054s0,2019-08-31T02:49:23.982Z,"65km ESE of Ofunato, Japan",earthquake,7.2,6.5,0.09,36,reviewed,us,us
 2019-08-12T06:37:21.685Z,45.8287,143.1469,336.73,4.1,mb,,118,1.161,1,us,us600053wn,2019-08-12T14:02:23.040Z,"93km SSE of Korsakov, Russia",earthquake,3.8,7.6,0.048,118,reviewed,us,us
-2019-08-11T09:07:41.718Z,47.9727,155.0578,31.43,4.4,mb,,175,5.41,0.94,us,us600053p9,2019-08-11T09:53:14.040Z,"East of the Kuril Islands",earthquake,7.7,8.3,0.131,17,reviewed,us,us
-2019-08-11T03:17:45.831Z,47.9206,156.1619,10,4.5,mb,,173,5.285,0.53,us,us600053ll,2019-08-11T03:50:52.040Z,"East of the Kuril Islands",earthquake,10.9,1.9,0.093,34,reviewed,us,us
-2019-08-10T22:12:39.442Z,23.7403,121.5379,10.48,3.9,mwr,,101,0.41,0.67,us,us60005615,2019-08-31T00:41:41.040Z,"27km SSW of Hualian, Taiwan",earthquake,2.2,5.3,0.086,13,reviewed,us,us
 2019-08-10T08:39:23.735Z,37.586,134.6997,374.91,4,mb,,51,2.911,0.46,us,us600053cg,2019-08-10T08:58:48.040Z,"199km NW of Mikuni, Japan",earthquake,12.2,12.2,0.119,19,reviewed,us,us
-2019-08-09T17:17:21.728Z,26.3424,126.558,68.76,4.5,mb,,60,1.612,0.66,us,us600052yk,2019-08-10T14:17:42.040Z,"112km W of Tomigusuku, Japan",earthquake,4.2,8.1,0.067,65,reviewed,us,us
-2019-08-08T18:56:45.425Z,25.6169,124.8138,107.49,5.1,mb,,56,1.995,1.05,us,us600052fk,2019-08-20T23:26:41.040Z,"102km NNW of Hirara, Japan",earthquake,7.7,6.7,0.034,282,reviewed,us,us
-2019-08-07T23:02:22.643Z,24.5616,121.8786,65.85,4,mb,,118,0.464,0.74,us,us600055gp,2019-08-23T23:02:28.040Z,"5km SE of Su'ao, Taiwan",earthquake,2.9,6.7,0.173,9,reviewed,us,us
-2019-08-07T21:28:03.639Z,24.4771,121.9328,20.69,5.8,mww,,17,0.431,0.83,us,us6000522g,2019-08-30T21:51:16.789Z,"15km SSE of Su'ao, Taiwan",earthquake,4.9,2.8,0.056,31,reviewed,us,us
 2019-08-07T12:10:46.819Z,37.3458,141.2468,35,4.5,mb,,146,0.636,0.98,us,us600051tc,2019-08-31T11:21:42.239Z,"26km SE of Namie, Japan",earthquake,6.3,2,0.102,29,reviewed,us,us
-2019-08-06T17:40:46.180Z,47.7218,143.79,35,4.8,mb,,124,1.035,0.79,us,us600051h8,2019-09-02T17:43:52.040Z,"85km ENE of Dolinsk, Russia",earthquake,8,1.9,0.03,352,reviewed,us,us
-2019-08-06T01:31:30.318Z,23.6437,121.5842,10,5,mb,,87,0.363,0.92,us,us60005145,2019-08-08T06:16:52.145Z,"36km S of Hualian, Taiwan",earthquake,1.7,1.9,0.064,79,reviewed,us,us
-2019-08-06T01:19:50.304Z,23.6901,121.5459,10,4.8,mwr,,61,0.374,0.84,us,us60005143,2019-08-06T02:57:03.361Z,"32km S of Hualian, Taiwan",earthquake,2.6,1.8,0.066,22,reviewed,us,us
